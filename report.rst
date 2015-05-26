@@ -1,11 +1,11 @@
-Hello Wolrd
-===========
+Administração de Sistemas Abertos
+=================================
 
 
-Este é meu primeiro esboço em reStructuredText!
------------------------------------------------
+Documentação das aulas
+----------------------
 
-* Vamos Jogar? www.silkroadonline.net
+* 
 
 
 - teste

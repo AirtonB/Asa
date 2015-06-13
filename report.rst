@@ -1,20 +1,14 @@
-Administração de Sistemas Abertos
-=================================
+Documentação ISA
+==================
 
+	*Este é um teste
+	*a critério
+	*de teste ;)
 
-Documentação das aulas
-----------------------
+existe muitos ``comandos`` no linux , vou citar alguns ::
 
-* 
-
-
-- teste
-  
-  - test2
-  
-- test1
-
-  - test3
+	``mkdir``
+	``apt-get install``
 
 Referência rst : http://docutils.sourceforge.net/docs/
 ------------------------------------------------------
